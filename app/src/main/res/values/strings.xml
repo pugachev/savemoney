@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SaveMoney</string>
+    <string-array name="itemList">
+        <item>食費</item>
+        <item>雑貨</item>
+        <item>薬品</item>
+        <item>交際費</item>
+        <item>その他</item>
+</string-array>
+</resources>
